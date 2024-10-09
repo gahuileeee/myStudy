@@ -11,4 +11,4 @@
 |oracle|[이동하기](https://github.com/gahuileeee/oracle)|
 |mySQL|[이동하기](https://github.com/gahuileeee/sql)|
 |git|[이동하기](https://github.com/gahuileeee/GitTest)|
-|디자인패턴|[이동하기]()|
+|디자인패턴|[이동하기](https://github.com/gahuileeee/designPattern)|
